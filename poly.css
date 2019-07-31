@@ -1,0 +1,54 @@
+.navbar-collapse li {
+    margin-left: 70px;
+}
+
+
+.content-link {
+    font-size: large;
+}
+
+.content-text {
+    font-size: large;
+}
+
+.content-img {
+    margin-left: 10%;
+}
+
+.content-text, .content-link {
+    text-align: center;
+}
+.content-text p {
+    width: 500px;
+    margin-left: 30%;
+}
+
+.row {
+    float: top;
+    margin-top: 50px;
+    position: relative;
+}
+
+.content {
+    background-color: #fbfbfb;
+    padding-top: 30px;
+    margin-top: 10px;
+    display: block;
+}
+#content-header {
+    padding-bottom: 50px;
+}
+
+.glyphicon {
+    font-size: small;
+}
+
+.fa-apple {
+    font-size: large;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        min-width: 1350px;
+    }
+}
